@@ -1,0 +1,6 @@
+const chalk = require('chalk')
+//const gN = require('./notes')
+//const getNotes = gN()
+//console.log(getNotes)
+//console.log(validator.isEmail('asdfexample.com'))
+console.log(chalk.red.inverse.bold('error'))
